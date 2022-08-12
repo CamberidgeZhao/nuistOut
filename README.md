@@ -1,2 +1,3 @@
-# nuistOut
-溜出学校用的
+# nuist-goout-v2
+
+> 此项目仅靠个人学习和共享。
