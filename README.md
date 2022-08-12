@@ -1,3 +1,3 @@
-# nuist-goout-v2
+# nuistGoout
 
 从学长那里搞了一份备用，防止删掉，自己动手丰衣足食
